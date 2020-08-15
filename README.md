@@ -1,5 +1,5 @@
 # Boiler-plate
-standard web function (UserAuth, login , register)
+Standard web function (UserAuth, login , register) made for react basic Frame
 
 # Used frameworks, tools
 React,Node.js,MongoDB,ExpressJS,Redux
